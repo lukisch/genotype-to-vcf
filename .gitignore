@@ -1,0 +1,52 @@
+# Genetic data - NEVER commit personal genomic data
+*.vcf
+*.vcf.gz
+genome_*
+*.23andme
+*.23andme.txt
+
+# Reference genomes (multi-GB files)
+*.fa
+*.fa.gz
+*.fa.fai
+*.fasta
+*.fasta.gz
+*.fasta.fai
+
+# dbSNP cache (contains API responses, can be regenerated)
+cache.json
+cache.json.tmp*
+
+# Compiled executables
+*.exe
+*.spec
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Old development versions
+Make23toVCF.py
+Make23toVCF2.py
+
+# Development notes (internal)
+AUFGABEN.txt
+Make23toVCF_konvert.txt
+START.bat
+nul
+
+# Claude Code local settings
+.claude/
