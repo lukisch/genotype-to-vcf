@@ -48,5 +48,25 @@ Make23toVCF_konvert.txt
 START.bat
 nul
 
+# Internal planning files
+PLAN.txt
+
+# Private / Archive
+_archive/
+_private/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Python bytecode
+*.py[cod]
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
 # Claude Code local settings
 .claude/
