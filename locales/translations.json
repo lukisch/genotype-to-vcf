@@ -1,0 +1,38 @@
+{
+  "23andMe-Datei auswählen": {
+    "de": "23andMe-Datei auswählen",
+    "en": "Select 23andMe File"
+  },
+  "Datei wählen": {
+    "de": "Datei wählen",
+    "en": "Select File"
+  },
+  "Keine Datei": {
+    "de": "Keine Datei",
+    "en": "No file"
+  },
+  "Keine Datei ausgewählt": {
+    "de": "Keine Datei ausgewählt",
+    "en": "No file selected"
+  },
+  "Starten": {
+    "de": "Starten",
+    "en": "Start"
+  },
+  "Umwandlung starten": {
+    "de": "Umwandlung starten",
+    "en": "Start Conversion"
+  },
+  "📁 Genotype-Datei öffnen": {
+    "de": "📁 Genotype-Datei öffnen",
+    "en": "📁 Open Genotype File"
+  },
+  "🚀 Konvertierung Starten": {
+    "de": "🚀 Konvertierung Starten",
+    "en": "🚀 Start Conversion"
+  },
+  "🛑 Abbrechen": {
+    "de": "🛑 Abbrechen",
+    "en": "🛑 Cancel"
+  }
+}
